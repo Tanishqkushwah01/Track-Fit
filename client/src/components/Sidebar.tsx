@@ -18,7 +18,7 @@ const Sidebar = () => {
                 <div className="size-10 rounded-xl bg-emerald-500 flex items-center justify-center">
                     <PersonStandingIcon className="size-7 text-white" />
                 </div>
-                <h1 className="text-2xl font-bold text-slate-800 dark:text-white">TrackFit</h1>
+                <h1 className="text-2xl font-bold text-slate-800 dark:text-white">Track Fit</h1>
             </div>
 
             <div className="flex flex-col gap-2">
