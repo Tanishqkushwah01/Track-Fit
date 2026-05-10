@@ -25,7 +25,8 @@ One of the key highlights of Track Fit is its AI-powered food tracking system. U
 # 🌐 Live Demo
 
 ## Frontend
-🔗 https://your-frontend-link.vercel.app
+🔗 https://track-fit-ten.vercel.app
+
 ---
 
 # ✨ Features
