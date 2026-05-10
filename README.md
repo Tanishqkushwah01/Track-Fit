@@ -86,9 +86,6 @@ This creates a smart, seamless, and modern calorie tracking experience.
 
 # 🚀 Future Improvements
 
-- 📊 Advanced analytics dashboard
-- 🧠 Improved AI calorie accuracy
-- 📱 Mobile application support
 - 💧 Water intake tracking
 - 😴 Sleep monitoring
 - 🔥 Fitness streak tracking system
