@@ -19,6 +19,13 @@ The application enables users to:
 
 One of the key highlights of Track Fit is its AI-powered food tracking system. Users can upload food images directly from their browser, and Google Gemini AI automatically analyzes the food, estimates calorie values, and stores the information in the tracking dashboard.
 
+
+---
+
+# 🌐 Live Demo
+
+## Frontend
+🔗 https://your-frontend-link.vercel.app
 ---
 
 # ✨ Features
