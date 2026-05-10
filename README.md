@@ -101,3 +101,89 @@ Track Fit is built to deliver a premium fitness experience by combining AI-power
 # 👨‍💻 Developed By
 
 ## Tanishq Kushwah
+
+
+
+
+---
+
+# 🚀 Getting Started
+
+Follow these steps to run Track Fit locally on your system.
+
+---
+
+# ⚛️ Start Frontend (Client)
+
+Move to the client folder:
+
+```bash
+cd client
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the frontend server:
+
+```bash
+npm run dev
+```
+
+Frontend will run on:
+
+```bash
+http://localhost:5173
+```
+
+---
+
+# 🚀 Start Backend (Server)
+
+Open a new terminal and move to the server folder:
+
+```bash
+cd server
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the backend server:
+
+```bash
+npm run develop
+```
+
+Backend will run on:
+
+```bash
+http://localhost:1337
+```
+
+---
+
+# 🔑 Environment Variables
+
+Create a `.env` file inside the client folder and add:
+
+```env
+VITE_GEMINI_API_KEY=YOUR_GEMINI_API_KEY
+```
+
+---
+
+# 🤖 AI Integration
+
+Track Fit uses Google Gemini AI for food image analysis and calorie estimation.
+
+Upload a food image, and the AI automatically:
+- Detects food items
+- Estimates calories
+- Saves the analyzed data
