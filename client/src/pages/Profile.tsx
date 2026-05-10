@@ -178,13 +178,13 @@ const Profile = () => {
           <Card>
             <h3 className="font-semibold text-slate-800 dark:text-white mb-4">Your Stats</h3>
             <div className="grid grid-cols-2 gap-4">
-              <div className="text-center p-4 bg-emerald-50 dark:bg-emerald-900/10 rounded-xl">
-                <p className="text-2xl font-bold text-emerald-600 dark:text-emerald-400">{stats.totalFoodEntries}</p>
+              <div className="text-center p-4 bg-purple-50 dark:bg-purple-900/10 rounded-xl">
+                <p className="text-2xl font-bold text-purple-600 dark:text-purple-400">{stats.totalFoodEntries}</p>
                 <p className="text-sm text-slate-500 dark:text-slate-400">Food entries</p>
               </div>
 
-              <div className="text-center p-4 bg-blue-50 dark:bg-blue-900/10 rounded-xl">
-                <p className="text-2xl font-bold text-blue-600 dark:text-blue-400">{stats.totalActivities}</p>
+              <div className="text-center p-4 bg-purple-50 dark:bg-purple-900/10 rounded-xl">
+                <p className="text-2xl font-bold text-purple-600 dark:text-purple-400">{stats.totalActivities}</p>
                 <p className="text-sm text-slate-500 dark:text-slate-400">Activities</p>
               </div>
 

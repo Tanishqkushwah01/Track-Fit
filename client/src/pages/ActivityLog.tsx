@@ -101,7 +101,7 @@ const ActivityLog = () => {
 
           <div className="text-right">
             <p className="text-sm  text-slate-500 dark:text-slate-400">Acive Today</p>
-            <p className="text-xl font-bold text-blue-600 dark:text-blue-400">{totalMinutes} min</p>
+            <p className="text-xl font-bold text-purple-600 dark:text-purple-400">{totalMinutes} min</p>
           </div>
         </div>
       </div>
@@ -219,7 +219,7 @@ const ActivityLog = () => {
             {/* Total Summary  */}
             <div className="mt-4 pt-4 border-t border-slate-100 dark:border-slate-800 flex justify-between items-center">
               <span className="text-slate-500 dark:text-slate-400">Total Active Time</span>
-              <span className="text-lg font-bold text-blue-600 dark:text-blue-400">{totalMinutes} minutes</span>
+              <span className="text-lg font-bold text-purple-600 dark:text-purple-400">{totalMinutes} minutes</span>
             </div>
           </Card>
         )}

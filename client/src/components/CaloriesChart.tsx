@@ -42,8 +42,8 @@ const CaloriesChart = () => {
                     <YAxis axisLine={false} tickLine={false} tick={{ fill: '#64748b', fontSize: 12 }} className="dark:text-slate-400" />
                     <Tooltip cursor={{ fill: 'transparent' }} contentStyle={{ backgroundColor: '#fff', borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }} />
                     <Legend iconType="circle" wrapperStyle={{ paddingTop: '10px' }} />
-                    <Bar dataKey="Intake" fill="#10b981" radius={[4, 4, 0, 0]} barSize={12} name="Intake" />
-                    <Bar dataKey="Burn" fill="#f97316" radius={[4, 4, 0, 0]} barSize={12} name="Burn" />
+                    <Bar dataKey="Intake" fill="#00F2FF" radius={[4, 4, 0, 0]} barSize={12} name="Intake" />
+                    <Bar dataKey="Burn" fill="#8B5CF6" radius={[4, 4, 0, 0]} barSize={12} name="Burn" />
                 </BarChart>
             </ResponsiveContainer>
         </div>
