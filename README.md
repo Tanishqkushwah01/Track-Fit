@@ -98,15 +98,6 @@ Track Fit is built to deliver a premium fitness experience by combining AI-power
 
 ---
 
-# 👨‍💻 Developed By
-
-## Tanishq Kushwah
-
-
-
-
----
-
 # 🚀 Getting Started
 
 Follow these steps to run Track Fit locally on your system.
@@ -187,3 +178,10 @@ Upload a food image, and the AI automatically:
 - Detects food items
 - Estimates calories
 - Saves the analyzed data
+
+---
+
+# 👨‍💻 Developed By
+
+## Tanishq Kushwah
+
