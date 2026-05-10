@@ -235,7 +235,8 @@ const FoodLog = () => {
           <div className="space-y-4">
             {['breakfast', 'lunch', 'dinner', 'snack'].map((mealType) => {
               const mealTypeKey = mealType as keyof typeof groupedEntries;
-              if (!groupedEntries[mealType]) return null;
+              // I made a change in there like mealType to mealTypeKey
+              if (!groupedEntries[mealTypeKey]) return null;
 
               const MealIcon = mealIcons[mealTypeKey];
               const mealCalories = groupedEntries[mealTypeKey].reduce((sum, e) => sum + e.calories, 0);
